@@ -26,5 +26,19 @@ print('Mathew')
 print('''Abrhaham
 Kuttenkeril
       ''') ##multinline
+
 name = "Ashish"
-print(len(name))
+print(id(name))
+#print(len(name)) ###length of a string function
+
+##print(name[0])
+##print(name[len(name)-1])
+##print(name[len(name)])
+
+#print(name[-6])
+
+name = "Mathew"
+print(id(name))
+
+print(name)
+
